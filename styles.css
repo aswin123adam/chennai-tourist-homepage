@@ -50,6 +50,7 @@ img {
     width: 100%;
     background: #181818; /*#E5E7EB White for logo*/
     height: 70px;
+    position: fixed;
 }
 #title{
     padding: 10px 20px;
