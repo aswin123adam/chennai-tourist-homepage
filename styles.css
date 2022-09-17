@@ -35,10 +35,10 @@ img {
 .whattodo{
     background: #1D3557;
     padding: 2px 12px;
-    font-size: 12px;
+    font-size: 20px;
     text-shadow: 0 0 1px black;
     border-radius: 4px;
-    width: 225px;
+    width: 325px;
 }
 
 .nav-activity{
@@ -46,6 +46,12 @@ img {
     margin: 0 auto;
     padding: 5px 0;
     color: #1D3557;
+    font-family: 'Karla';
+}
+
+#heading-for-activities{
+    font-weight: bold;
+    font-size: 23px;
 }
 
 .activities{
@@ -69,14 +75,14 @@ img {
 
 } 
  .parahead{
-    font-size: 15px;
+    font-size: 20px;
     font-weight: bold;
     color: #457B9D;
     
 }
 
 .innerpara{
-    font-size: 11px;
+    font-size: 14px;
     color: #260F26;
 } 
 
@@ -85,6 +91,7 @@ img {
 }
 
 .card{
+    font-family: 'Karla';
     display: flex;
     margin: 0 auto;
     justify-content: center;
